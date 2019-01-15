@@ -1,0 +1,79 @@
+body{
+    margin: 15px;
+    padding: 17px;
+    font-family: sans-serif;
+    background: url('./images/pol.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 247px;
+}
+
+.logo{
+    height: 48px;
+    padding: 2px 10px;
+}
+
+.contact-title h4,h1{
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px black;
+}
+
+.contact-form{
+    padding-top: 50px;
+    text-align: center;
+}
+
+.form-control{
+    width: 600px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid rgb(243, 233, 233);
+    color: wheat;
+    font-size: 18px;
+    margin-top: 16px;
+
+}
+
+.contact-form button:hover{
+    background-color: black;
+    color: white;
+}
+
+
+/*post page*/
+
+#heading01{
+    font-size: 50px;
+    font-family: cursive;
+    color: beige;
+    text-shadow:2px 2px blue;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+#paragraph{
+    padding-top: 20px;
+    font-size: 23px;
+    color: white;
+    text-shadow: 3px 3px orangered;
+}
+.form-control02{
+    width: 100px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid rgb(243, 233, 233);
+    color: wheat;
+    font-size: 18px;
+    margin-top: 16px;
+    padding-right: 80px;
+
+}
+ 
+#buttons{
+    text-align: right;
+     
+}
